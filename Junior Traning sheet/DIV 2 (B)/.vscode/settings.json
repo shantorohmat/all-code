@@ -1,0 +1,15 @@
+{
+    "code-runner.clearPreviousOutput": true,
+    "files.associations": {
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "algorithm": "cpp",
+        "utility": "cpp",
+        "compare": "cpp",
+        "xstddef": "cpp",
+        "xutility": "cpp",
+        "string": "cpp",
+        "ostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
